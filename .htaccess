@@ -1,0 +1,6 @@
+RewriteEngine On
+
+RewriteRule ^$ main/ [L]
+RewriteRule (.*) main/$1 [L]
+
+Options -Indexes

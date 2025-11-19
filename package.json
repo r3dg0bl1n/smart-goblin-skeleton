@@ -1,0 +1,15 @@
+{
+  "name": "goblin-minion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "g0bl1n",
+  "license": "MIT",
+  "devDependencies": {
+    "chokidar": "^4.0.3",
+    "javascript-obfuscator": "^4.1.1",
+    "sass": "^1.93.2"
+  }
+}
