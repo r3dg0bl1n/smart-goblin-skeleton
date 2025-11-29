@@ -5,6 +5,6 @@
     "license": "MIT",
     "require": {
         "php": "^8.5",
-        "smartgoblin/library": "^0.1"
+        "smart-goblin/library": "^0.1"
     }
 }
