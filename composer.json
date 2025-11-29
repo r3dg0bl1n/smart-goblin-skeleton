@@ -1,10 +1,10 @@
 {
-    "name": "smartgoblin/project",
+    "name": "smart-goblin/project",
     "description": "Skeleton for SmartGoblin projects.",
     "type": "project",
     "license": "MIT",
     "require": {
         "php": "^8.5",
-        "smartgoblin/library": "main-dev"
+        "smartgoblin/library": "^0.1"
     }
 }
